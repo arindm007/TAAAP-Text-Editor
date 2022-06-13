@@ -1,5 +1,4 @@
-# JAVA-project-TEXT_EDITOR
-TAAAP -Simple Java Text Editor
+#TAAAP -Simple Java Text Editor
 
 This includes features such as:
 
